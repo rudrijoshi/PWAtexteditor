@@ -12,9 +12,9 @@ Screenshot of PWA text editor
 
 ## Links
 
--URL link for the deployed Github application: https://rudrijoshi.github.io/PWA-Text-Editor/
+- URL link for the deployed Github application: https://rudrijoshi.github.io/PWAtexteditor/
 
--URL link for the Github repository: https://github.com/rudrijoshi/PWA-Text-Editor/
+- URL link for the Github repository: https://github.com/rudrijoshi/PWAtexteditor/
 
--URL link for the heroku: https://guarded-eyrie-96919-86a74218a91e.herokuapp.com/
+- URL link for the heroku: https://guarded-eyrie-96919-86a74218a91e.herokuapp.com/
 

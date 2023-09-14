@@ -2,7 +2,7 @@
 
 ## Description
 
-A text editor that runs in the browser and this paplication is a single-page application that meets the PWA criteria. This text editor  will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
+A text editor that runs in the browser and this application is a single-page application that meets the PWA criteria. This text editor  will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
 ## Usage
 

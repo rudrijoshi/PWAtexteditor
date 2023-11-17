@@ -16,5 +16,5 @@ Screenshot of PWA text editor
 
 - URL link for the Github repository: https://github.com/rudrijoshi/PWAtexteditor/
 
-- URL link for the heroku: https://guarded-eyrie-96919-86a74218a91e.herokuapp.com/
+- URL link for the heroku: https://aqueous-tor-50199-fcf338aac2bc.herokuapp.com/
 
